@@ -1,0 +1,1 @@
+純C/C++記憶體設定清空函數[CB_struct_memset]
